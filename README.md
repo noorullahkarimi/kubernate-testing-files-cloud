@@ -1,5 +1,5 @@
 
-# Kubernate confi
+# Kubernate config
 
 ## Project description
 
