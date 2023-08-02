@@ -8,8 +8,8 @@ spec:
   replicas: 1
   selector:
     matchLabels:
-      app: result-app-pod
-      name: demo-voting-app
+      name: result-app-pod
+      app: demo-voting-app
   template:
     metadata:
       labels:
